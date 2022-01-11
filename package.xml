@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>flex_sensor</name>
+  <version>0.0.0</version>
+  <description>flex_sensor ROS interface</description>
+
+  <author email="ecuniato@ethz.ch">Eugenio Cuniato</author>
+  <maintainer email="ecuniato@ethz.ch">Eugenio Cuniato</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>serial</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+
+</package>

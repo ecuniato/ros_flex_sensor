@@ -1,0 +1,6 @@
+<launch>
+    <node name="flex_reader" type="flex_reader"
+          pkg="flex_sensor" output="screen">
+    </node>
+
+</launch>
